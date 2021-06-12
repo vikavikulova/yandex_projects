@@ -12,5 +12,5 @@ Pandas, Matplotlib, Plotly
 ### Статус проекта:
 Завершен
 
-### Проект корректно отображается на [nbviewer](https://nbviewer.jupyter.org/github/vikavikulova/yandex_projects/blob/main/air_company/vikulova_analiz_dannih_dla_aviakompanii_GITHUB.ipynb)
+### Проект корректно отображается на nbviewer [ссылка](https://nbviewer.jupyter.org/github/vikavikulova/yandex_projects/blob/main/air_company/vikulova_analiz_dannih_dla_aviakompanii_GITHUB.ipynb)
 
